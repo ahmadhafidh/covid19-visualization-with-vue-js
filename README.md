@@ -1,4 +1,14 @@
-# covid-19-visualization
+# covid-19-visualization with Vue JS
+![COVID-19 Tracker)
+
+![alt text](https://i.ibb.co/MPQfW5v/covid-react.png)
+
+### [Live Site](https://hopeful-jepsen-7c7446.netlify.app/)
+
+API which used: https://covid19api.com/
+
+
+
 
 ## Project setup
 ```
