@@ -3,12 +3,7 @@
 
 ![alt text](https://i.ibb.co/qJgTQzS/corona-vue-js.png)
 
-### [Live Site](https://hopeful-jepsen-7c7446.netlify.app/)
-
 API which used: https://covid19api.com/
-
-
-
 
 ## Project setup
 ```
