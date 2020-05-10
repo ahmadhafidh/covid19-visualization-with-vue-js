@@ -1,7 +1,7 @@
 # covid-19-visualization with Vue JS
 ![COVID-19 Tracker)
 
-![alt text](https://i.ibb.co/MPQfW5v/covid-react.png)
+![alt text](https://i.ibb.co/qJgTQzS/corona-vue-js.png)
 
 ### [Live Site](https://hopeful-jepsen-7c7446.netlify.app/)
 
